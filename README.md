@@ -1,2 +1,2 @@
 # php_task
-training on git hub by sending php task
+training on git hub by uploading php task
